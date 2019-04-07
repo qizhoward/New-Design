@@ -28,12 +28,12 @@ The New Idea New Design List Map
     |     
     |----------
     |     |
-    |     |dream 通灵王游戏
+    |     |dream 通灵王游戏,模型
     |     |
     |
     |----------
     |     |
-    |     |dream 
+    |     |dream 家庭版工作眼镜,数据库,用户登录,Google Glass Family Version With My Idea AR And VR System.
     |     |
     |
     |----------进展，日志
@@ -54,7 +54,8 @@ The New Idea New Design List Map
     |     |2019.04
     |     |
     |     |
-    |     |2019　        欲购买刻蚀剂,制作pcb电路板,
+    |     |2019　        
+    |     |                欲购买刻蚀剂,制作pcb电路板,
     |     |              找玻璃面板触摸屏面板生产厂，塑料生产厂定制
     |   时间线
     
