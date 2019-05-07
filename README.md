@@ -115,6 +115,8 @@ The New Idea New Design List Map
     |     |                                 三角形的PCB设计得想想怎么改..
     |     |            xbox-tv                                 
     |     |            xbox-gametv
+    |     |
+    |     |            research 代码重构 都不好用 
     |   时间线
     
     
