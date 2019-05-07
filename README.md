@@ -116,7 +116,7 @@ The New Idea New Design List Map
     |     |            xbox-tv                                 
     |     |            xbox-gametv
     |     |
-    |     |            research 代码重构 都不好用 
+    |     |            research 代码重构 都不好用 得蹲着倒着走
     |   时间线
     
     
