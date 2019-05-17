@@ -127,7 +127,7 @@ The New Idea New Design List Map
     |     |                     先造一个塑料模型,再用纯钢纯铁制作    
     |     |                  
     |     |                        
-    |     |                      
+    |     |                     新款游戏手柄 
     |     |
     |     |
     |
