@@ -135,8 +135,8 @@ The New Idea New Design List Map
     |     |                        
     |     |                     新款游戏手柄 
     |     |
+    |     |      注：中国政府不管 The Chinese government does not care
     |     |
-    |
     |   时间线
     
     
