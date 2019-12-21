@@ -151,8 +151,15 @@ The New Idea New Design List Map
     |     |
     |     |
     |     |
+    |     |2019.12.21..19:10..丝毫没进展..　屏幕要求
+    |     |寻找找屏幕工厂 做小电子产品 小屏幕 眼镜玻璃镜片大小的屏幕
+    |     |双面触摸屏
     |     |
-    |     |            
+    |     |圣诞节付费的电脑游戏都快开始搞促销活动了
+    |     |
+    |     |
+    |     |
+    |     | 
     |   时间线
     
      Because Chinese prince, Queen Mother, Xi Jinping, Peng Liyuan,                             </br>
